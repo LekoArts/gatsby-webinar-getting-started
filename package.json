@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-webinar-getting-started",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby site",
+  "author": "LekoArts",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-postcss": "^3.3.0",
+    "gatsby-source-filesystem": "^2.7.0",
+    "gatsby-transformer-remark": "^2.12.0",
+    "postcss": "^8.1.14",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
