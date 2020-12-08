@@ -10,6 +10,8 @@ The progress of this project is split up into separate commits with descriptive 
 
 ## Overview of project
 
+Curious yet? See the [**live preview**](https://gatsbywebinargettingstarted.gtsb.io/) of the site already.
+
 So what does the project highlight?
 
 - **File System Route API** ([Documentation](https://www.gatsbyjs.com/docs/file-system-route-api/)): Use the File System Route API when you want to programmatically create pages from your GraphQL data, e.g. to create individual blog post pages for your blog. With this API you can control the file path and queried data by adding some extra notation to the names of your files without touching or creating `gatsby-node.js` whatsoever.
